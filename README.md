@@ -19,6 +19,6 @@ Refer to the `.md` file adjacent to each folder for an in-depth explanation of t
 - **Examples to illustrate the concept.**
 - **A section titled "Questions for AI"** where you can pose questions to an AI for further clarification.
 
-Feel free to explore the folders and dive into the documentation to enhance your understanding of Angular. If you have any questions, the "Questions for AI" section is there to provide additional insights.
+<!-- Feel free to explore the folders and dive into the documentation to enhance your understanding of Angular. If you have any questions, the "Questions for AI" section is there to provide additional insights. -->
 
 Happy learning! 🚀
